@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tyrell Keene</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tyrell Keene</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Oct 2024 20:21:17 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 28 Oct 2024 20:21:17 -0400</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;come back later!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 28 Oct 2024 19:03:33 -0400</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h3 id=&#34;contrast-security---software-engineer-ii&#34;&gt;&#xA;  Contrast Security - &lt;em&gt;Software Engineer II&lt;/em&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#contrast-security---software-engineer-ii&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;h5 id=&#34;dec-2019---april-2024&#34;&gt;&#xA;  &lt;em&gt;(Dec. 2019 - April 2024)&lt;/em&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#dec-2019---april-2024&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h5&gt;&#xA;&lt;p&gt;When I joined Contrast Security, I started in the contrast-service team. The&#xA;contrast service acted as an intermediary between the dynamic language agents&#xA;(DAST) and the Contrast frontend internally called Teamserver. The service&#xA;handled http requests to scan for OWASP and other vulnerabilities for the Go,&#xA;Node, Python and Ruby agents.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
